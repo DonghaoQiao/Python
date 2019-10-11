@@ -54,11 +54,6 @@ class Solution1:
         return longest
 
 
-
-
-
-
 print(Solution1().lengthOfLongestSubstringKDistinct('abcbadc',3))
-''
 print(Solution1().lengthOfLongestSubstringKDistinct('bbbbb',2))
 print(Solution1().lengthOfLongestSubstringKDistinct('eceba',2))
